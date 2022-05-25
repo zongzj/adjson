@@ -1,0 +1,8 @@
+{ "appCode":"222200269",
+"notifyId":"-1",
+"romInfo":[
+{"romName":"huawei","isShow":false},
+{"romName":"xiaomi","isShow":true},
+{"romName":"vivo","isShow":true},
+{"romName":"oppo","isShow":false}]
+}
