@@ -1,5 +1,6 @@
 { "appCode":"222200270",
 "notifyId":"-1",
+ "isGM":false,
 "romInfo":[
 {"romName":"huawei","isShow":false},
 {"romName":"xiaomi","isShow":false},
